@@ -1,0 +1,98 @@
+html {
+  background-color: fbd1a2;
+}
+
+
+ 
+h1 {color: f79256; 
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-shadow: black; }
+
+
+h2 {color: lightcoral;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif ;
+    border: transparent; 
+    margin: 0px; 
+  }
+p {color: lightcoral;
+   font-size: 30px ; 
+   border: ridge;
+   margin-left: 100px; 
+   margin-right: 100px; 
+   background-color:  blanchedalmond;
+   text-shadow: black; 
+   border-color: lightcoral; 
+   border-width: 15px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+
+h4 {color: e5f993;
+    font-size: 40px; 
+    font-family:Arial, Helvetica, sans-serif}
+
+h3{color: e5f993; 
+   font-size: 40px;
+   ; font-family:Arial, Helvetica, sans-serif}
+
+h10{color: e5f993; 
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif}
+
+h8{color: e5f993;
+   font-size: 40px;
+   font-family:Arial, Helvetica, sans-serif}
+
+h5 {color:fbd1a2 ;
+    font-size: 25px;
+    border: transparent; 
+    margin: 0px; 
+    margin-left: 100px;
+    text-shadow: black 5px; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif }
+
+.titulo {background-color: f4742a;
+         border: ridge;
+         border-width: 20px; 
+         border-color: f58c14;
+         overflow: hidden; }
+
+.tres {border:ridge;
+       background-color: f58c14;
+       border-color: f4742a; 
+       border-width: 20px; 
+       overflow: hidden;}
+
+h7 {color:fbd1a2 ;
+    font-size: 20px;}
+
+
+.quatro {background-color: f4742a
+         ; border: ridge
+         ; border-width: 20px; 
+         border-color: f58c14;
+         overflow: hidden;}
+
+img {width: 650px;
+     height: 450px;
+     border:ridge; 
+     border-color: white; 
+     border-width: 17px;}
+
+nav a { 
+  background-color: f79256; 
+  border: solid;
+  border-color: f4742a; 
+  color:fbd1a2; 
+  font-size: 25px; 
+  margin-left: 10px;
+;}
+
+.litonlyfortitle {border: solid; 
+                  border-color:f4742a;
+                  background-color: f79256;
+                  margin-left: 200px;
+                  margin-right: 200px;}
+h11{color:fbd1a2 ;
+    font-size: 35px;}
+    
